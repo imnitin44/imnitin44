@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif))](https://imnitin44.io)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)](https://imnitin44.io)
 <h1 align="center">Hi 👋, I'm Nitin Gaikwad</h1>
 <h3 align="center">A passionate frontend Data Analyst/Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
