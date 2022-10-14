@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imnitin44&label=Profile%20views&color=0e75b6&style=flat" alt="imnitin44" /> </p>
 
-- 🔭 I’m currently working on **Insurance Fraud**
+- 🔭 I’m currently working on **Insurance fraud transactions**
 
 - 🌱 I’m currently learning **Big data,NLP,CV**
 
