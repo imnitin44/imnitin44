@@ -4,15 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imnitin44&label=Profile%20views&color=0e75b6&style=flat" alt="imnitin44" /> </p>
 
-- 🔭 I’m currently working on **Insurance fraud transactions**
+- 🔭 I’m currently working on **Insurance fraud**
 
 - 🌱 I’m currently learning **Big data,NLP,CV**
 
-- 💬 Ask me about **Machine Learning algorithms, Power BI, Python, SQL**
+- 💬 Ask me about **Machine Learning algorithms,Deep Learning, Power BI, Python, SQL**
 
 - 📫 How to reach me **imnitin44@gmail.com**
 
-- 📄 Know about my experiences [I am currently working with DAG infotek Pvt Ltd since 1.5+ years and also worked with Shrijeet Finance Pvt Ltd as a Manager in Enterprise solution Department.]
 
 
 
